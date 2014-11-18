@@ -6,10 +6,10 @@
         id        = "com.phonegap.MyNyuyNewApp_102AC2010"
         version   = "1.0.0">
 
-    <name>Hello World</name>
+    <name>cupcake</name>
 
     <description>
-        Hello World sample application that responds to the deviceready event.
+        cupcake sample application that responds to the deviceready event.
     </description>
 
     <author href="http://phonegap.com" email="support@phonegap.com">
